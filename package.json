@@ -1,0 +1,11 @@
+{
+  "name": "lib-modinfo",
+  "version": "0.0.0",
+  "description": "describe a module managed by npkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT"
+}
